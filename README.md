@@ -1,2 +1,2 @@
 # MLshortfunctions
-A repository with many easy and short tasks which help and are essential in machine learning 
+A repository with many easy, short and interesting tasks which help and are essential in machine learning 
